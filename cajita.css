@@ -1,0 +1,60 @@
+.cajaroja {
+	width: 320px;
+    height: 320px;
+    margin: 0 auto;
+    background-color: red;
+    position: relative;
+    z-index: -1;
+    right: 470px;
+    margin-top: 15px;
+}
+
+#cajamorada {
+	width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    background-color: purple;
+    position: relative;
+    top: 80px;
+}
+
+#cajaamarilla {
+	width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    background-color: yellow;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.cajaazul{
+	width: 320px;
+    height: 320px;
+    margin: 0 auto;
+    background-color: blue;
+    position: relative;
+    z-index: -1;
+    right: 470px;
+    margin-top: 15px;
+}
+
+#cajaverde {
+	width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    background-color: green;
+    position: relative;
+    top: 80px;
+
+	
+}
+
+#cajanegra {
+	width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+}
